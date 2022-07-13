@@ -191,7 +191,7 @@ terminating null byte ('\\0') and ending at the first element of the array.
 .B R
 .in +2n
 Identical to the \fBs\fR conversion specifier, except each character of the
-array is converted to its corresponding character in ROT13 before being written.
+array is converted to its corresponding character in ROT13 before breing written.
 .in
 .RE
 
@@ -283,5 +283,3 @@ man page printf(3).
 
 .SH AUTHOR
 Amaliri Emmanuel and Precious Amaechi
-
-
